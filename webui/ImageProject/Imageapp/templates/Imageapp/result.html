@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Processed Images</title>
+</head>
+<body>
+    <h1>Processed Images</h1>
+    {% for filename in processed_image_filenames %}
+        <img src="{% static 'processed_images/output_image_0.png' %}" alt="Processed Image">
+    {% endfor %}
+</body>
+</html>

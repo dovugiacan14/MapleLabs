@@ -1,0 +1,16 @@
+I. ControlNet: 
+	1. control_sd15_openpose.pth
+	2. control_v1p_sd15_qrcode_monster.safetensors
+	3. control_v11p_sd15_openpose.pth
+	4. t2iadapter_color_sd14v1.pth 
+
+II. Checkpoint 
+	1. https://civitai.com/models/65203?modelVersionId=69832 
+	2. https://civitai.com/models/66347?modelVersionId=82547
+	3. https://civitai.com/models/94809?modelVersionId=132741
+	4. https://civitai.com/models/97744/realcartoon-realistic
+	5. https://civitai.com/models/4201?modelVersionId=130072 
+	6. https://civitai.com/models/118729?modelVersionId=144778 
+	7. https://civitai.com/models/81270?modelVersionId=144566 
+	8. https://civitai.com/models/62437/v1-5-pruned-emaonly 
+	
